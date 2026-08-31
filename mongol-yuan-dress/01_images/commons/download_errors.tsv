@@ -1,0 +1,14 @@
+cloud-collar	File:Collar (China), 19th century (CH 18397795).jpg	HTTPError: HTTP Error 500: Internal Server Error
+cloud-collar	File:Collar (AM 3512-2).jpg	RuntimeError: 429 retries exhausted
+cloud-collar	File:Collar (AM 3512-3).jpg	RuntimeError: 429 retries exhausted
+cloud-collar	File:Sitting man Dagestan Louvre AA265.jpg	RuntimeError: 429 retries exhausted
+dress-mongol-yuan	File:Collar (AM 3512-2).jpg	RuntimeError: 429 retries exhausted
+dress-mongol-yuan	File:Collar (AM 3512-3).jpg	RuntimeError: 429 retries exhausted
+dress-mongol-yuan	File:Sitting man Dagestan Louvre AA265.jpg	RuntimeError: 429 retries exhausted
+dress-yuan	File:Sitting man Dagestan Louvre AA265.jpg	RuntimeError: 429 retries exhausted
+moko-shurai-ekotoba	File:Amanawa.jpg	URLError: <urlopen error [Errno 54] Connection reset by peer>
+moko-shurai-ekotoba	File:Adachi Morimune.jpg	URLError: <urlopen error [Errno 54] Connection reset by peer>
+moko-shurai-ekotoba	File:Takezaki Suenaga&Kouno Michiari.jpg	URLError: <urlopen error [Errno 54] Connection reset by peer>
+moko-shurai-ekotoba	File:Mōko Shūrai Ekotoba3.JPG	URLError: <urlopen error [Errno 54] Connection reset by peer>
+moko-shurai-ekotoba	File:Mōko Shūrai Ekotoba4.JPG	URLError: <urlopen error [Errno 54] Connection reset by peer>
+demotte-shahnama	File:Rustam kills Isfandiyar-1336.jpg	RuntimeError: 429 retries exhausted
