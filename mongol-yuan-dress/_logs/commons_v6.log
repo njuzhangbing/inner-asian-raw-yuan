@@ -1,0 +1,288 @@
+
+### diez-albums  (49 张, 策略=原图)
+    10 new / 23 cached  (16 MB 本次)
+    20 new / 24 cached  (46 MB 本次)
+    -> new 25 / cached 24 / fail 0
+
+### gugu-hat  (2 张, 策略=1600px)
+    -> new 2 / cached 0 / fail 0
+
+### cloud-collar  (26 张, 策略=1600px)
+    10 new / 0 cached  (77 MB 本次)
+    [429] 退避 30s
+    [429] 退避 45s
+    [429] 退避 67s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 45s
+    [429] 退避 67s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 30s
+    -> new 19 / cached 3 / fail 4
+
+### dress-mongol-yuan  (30 张, 策略=1600px)
+    [429] 退避 30s
+    10 new / 0 cached  (92 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 45s
+    [429] 退避 67s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 45s
+    [429] 退避 67s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    20 new / 0 cached  (98 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    -> new 27 / cached 0 / fail 3
+
+### dress-yuan  (19 张, 策略=1600px)
+    [429] 退避 30s
+    [429] 退避 45s
+    [429] 退避 67s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    10 new / 0 cached  (113 MB 本次)
+    -> new 18 / cached 0 / fail 1
+
+### chabi  (5 张, 策略=1600px)
+    [429] 退避 30s
+    -> new 5 / cached 0 / fail 0
+
+### yuan-empress-portraits  (53 张, 策略=1600px)
+    [429] 退避 30s
+    [429] 退避 30s
+    10 new / 0 cached  (145 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    20 new / 0 cached  (157 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    30 new / 0 cached  (173 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    40 new / 0 cached  (187 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    50 new / 0 cached  (203 MB 本次)
+    [429] 退避 30s
+    -> new 53 / cached 0 / fail 0
+
+### yuan-emperor-portraits  (30 张, 策略=1600px)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    10 new / 0 cached  (216 MB 本次)
+    [429] 退避 30s
+    20 new / 1 cached  (228 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    -> new 29 / cached 1 / fail 0
+
+### great-mongol-shahnama-h2153  (7 张, 策略=1600px)
+    [429] 退避 30s
+    [429] 退避 30s
+    -> new 7 / cached 0 / fail 0
+
+### abu-said-mongol-history  (14 张, 策略=1600px)
+    [429] 退避 30s
+    [429] 退避 30s
+    -> new 5 / cached 9 / fail 0
+
+### moko-shurai-ekotoba  (68 张, 策略=1200px)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 45s
+    [429] 退避 67s
+    [429] 退避 90s
+    10 new / 0 cached  (262 MB 本次)
+    [429] 退避 30s
+    [429] 退避 45s
+    [429] 退避 30s
+    [429] 退避 45s
+    20 new / 0 cached  (264 MB 本次)
+    30 new / 0 cached  (266 MB 本次)
+    [429] 退避 30s
+    40 new / 0 cached  (269 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    50 new / 0 cached  (271 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    60 new / 0 cached  (273 MB 本次)
+    [429] 退避 30s
+    -> new 63 / cached 0 / fail 5
+
+### ilkhanid-manuscripts  (134 张, 策略=1200px)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    10 new / 0 cached  (280 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    20 new / 0 cached  (286 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    30 new / 0 cached  (292 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    40 new / 0 cached  (296 MB 本次)
+    50 new / 3 cached  (302 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    60 new / 3 cached  (306 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    70 new / 3 cached  (311 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    80 new / 3 cached  (314 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 45s
+    [429] 退避 67s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 30s
+    [429] 退避 30s
+    90 new / 3 cached  (320 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    100 new / 3 cached  (323 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    110 new / 3 cached  (326 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    120 new / 3 cached  (329 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    130 new / 3 cached  (333 MB 本次)
+    -> new 131 / cached 3 / fail 0
+
+### demotte-shahnama  (117 张, 策略=1200px)
+    [429] 退避 30s
+    [429] 退避 30s
+    10 new / 0 cached  (340 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    20 new / 0 cached  (345 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 45s
+    [429] 退避 67s
+    30 new / 0 cached  (352 MB 本次)
+    [429] 退避 30s
+    [429] 退避 45s
+    [429] 退避 30s
+    40 new / 0 cached  (359 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 45s
+    50 new / 1 cached  (365 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    60 new / 1 cached  (372 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    70 new / 1 cached  (378 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    80 new / 1 cached  (385 MB 本次)
+    [429] 退避 30s
+    [429] 退避 45s
+    [429] 退避 67s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 90s
+    [429] 退避 30s
+    [429] 退避 45s
+    [429] 退避 67s
+    [429] 退避 90s
+    90 new / 4 cached  (391 MB 本次)
+    [429] 退避 30s
+    [429] 退避 45s
+    [429] 退避 67s
+    [429] 退避 30s
+    [429] 退避 30s
+    100 new / 4 cached  (396 MB 本次)
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 30s
+    [429] 退避 45s
+    [429] 退避 30s
+    110 new / 4 cached  (403 MB 本次)
+    [429] 退避 30s
+    -> new 112 / cached 4 / fail 1
+Traceback (most recent call last):
+  File "/Users/zhangbing/Downloads/mongol-yuan-dress/tools/commons_dl2.py", line 105, in <module>
+    tmap = thumburls(need, 2500 if res == "original" else res) if need else {}
+  File "/Users/zhangbing/Downloads/mongol-yuan-dress/tools/commons_dl2.py", line 73, in thumburls
+    d = api({"action":"query","prop":"imageinfo","iiprop":"url|size",
+  File "/Users/zhangbing/Downloads/mongol-yuan-dress/tools/commons_dl2.py", line 62, in api
+    with urllib.request.urlopen(req, timeout=60) as r:
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests

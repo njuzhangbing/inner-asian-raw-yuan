@@ -1,0 +1,6 @@
+22:47:07 probe#1 -> HTTP 429
+22:48:38 probe#2 -> HTTP 429
+22:50:11 probe#3 -> HTTP 200
+冷却解除，开始下载
+queued 1537 files
+  [429] 全线暂停 615s（服务端 Retry-After）

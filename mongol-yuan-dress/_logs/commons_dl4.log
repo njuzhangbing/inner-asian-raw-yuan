@@ -1,0 +1,8 @@
+22:52:18 probe#1 -> HTTP 200
+冷却解除，开始下载
+queued 1537 files
+  [429] 全线暂停 16s（服务端 Retry-After）
+  [429] 恢复
+  [429] 全线暂停 615s（服务端 Retry-After）
+  [429] 恢复
+  10 new / 0 cached / 0 fail / 0.01 GB
